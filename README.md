@@ -1,4 +1,4 @@
-This project was carried out in fulfillment of the course ST3288 Advanced UROPS in Statistics & Applied Probability in NUS. The raw and processed datasets and R codes used in this project are available in this repository. 
+This project was carried out in fulfillment of the course ST3288 Advanced UROPS in Statistics & Applied Probability at NUS. The raw and processed datasets and R codes used in this project are available in this repository. 
 
 Ttitle: On the Order of a Markov Chain Model for Generating DNA Sequences
 
